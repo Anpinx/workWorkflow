@@ -1,0 +1,1 @@
+该文件夹存放各种自动化处理脚本，用于规范格式读取、格式转换(PDF转Markdown,Markdown转doc或者Markdown转docx等任务)

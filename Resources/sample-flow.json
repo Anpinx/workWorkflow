@@ -1,0 +1,12 @@
+{
+  "name": "TestFlow",
+  "nodes": [
+    {"key": "A", "label": "Start"},
+    {"key": "B", "label": "Process"},
+    {"key": "C", "label": "End"}
+  ],
+  "edges": [
+    {"source": "A", "target": "B", "label": "begin"},
+    {"source": "B", "target": "C", "label": "finish"}
+  ]
+}

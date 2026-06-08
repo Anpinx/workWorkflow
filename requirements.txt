@@ -1,0 +1,24 @@
+# Cloud layout API (optional — only used when env vars are set)
+azure-ai-documentintelligence>=1.0.0
+azure-core>=1.29.0
+
+# Word
+python-docx>=1.1.0
+mammoth>=1.6.0
+markdownify>=0.13.0
+
+# PDF fallback
+pymupdf>=1.24.0
+
+# Excel / PPT
+openpyxl>=3.1.0
+python-pptx>=0.6.23
+
+# Markdown parsing (md → docx)
+mistune>=3.0.0
+
+# draw.io / XML
+lxml>=5.0.0
+
+# CLI & config
+python-dotenv>=1.0.0

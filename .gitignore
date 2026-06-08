@@ -1,0 +1,7 @@
+output/
+.venv/
+.env
+__pycache__/
+*.pyc
+一种多类型工业表盘实时分割与几何读数方法.docx
+template/template.doc
